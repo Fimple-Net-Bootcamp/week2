@@ -6,7 +6,9 @@ Bu API, çeşitli gezegenler ve uydular için hayali hava durumu bilgileri sunar
 2. HTTP metodlarını ve durum kodlarını doğru şekilde kullanmak.
 3. Okunabilir ve anlaşılır bir API yapısı oluşturmak.
 
-   REST API tasarımında "best practice" (en iyi uygulama) prensipleri, kullanıcı dostu, verimli ve sürdürülebilir bir API oluşturmanıza yardımcı olur. İyi bir REST API tasarımı, kullanıcıların API'nizi kolayca anlamasını ve kullanmasını sağlar. İşte REST API tasarımının bazı temel prensipleri:
+---
+
+REST API tasarımında "best practice" (en iyi uygulama) prensipleri, kullanıcı dostu, verimli ve sürdürülebilir bir API oluşturmanıza yardımcı olur. İyi bir REST API tasarımı, kullanıcıların API'nizi kolayca anlamasını ve kullanmasını sağlar. İşte REST API tasarımının bazı temel prensipleri:
 
 ### 1. Açık ve Anlaşılır URL'ler Kullanın
 
