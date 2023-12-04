@@ -28,7 +28,7 @@ REST API tasarımında "best practice" (en iyi uygulama) prensipleri, kullanıc�
 - **200 OK**: Başarılı GET, PUT, PATCH veya DELETE işlemi için.
 - **201 Created**: Başarılı POST işlemi için.
 - **204 No Content**: Başarılı ama yanıt gövdesiz işlem için (örneğin, DELETE).
-- **400 Bad Request**: Müşteri hatası.
+- **400 Bad Request**: client hatası.
 - **401 Unauthorized**: Kimlik doğrulama gerektiren işlemler için.
 - **403 Forbidden**: Yetkilendirme hatası.
 - **404 Not Found**: Kaynak bulunamadı.
